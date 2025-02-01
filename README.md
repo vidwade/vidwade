@@ -54,9 +54,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vidwade&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vidwade&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ <a href="https://github.com/DFanso">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vidwade&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vidwade&layout=compact&theme=tokyonight"/>
+</a>
 </div>
 
 <br/><br/>
