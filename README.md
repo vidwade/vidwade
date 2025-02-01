@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I'm currently working on **academic projects**
+ 🔭 I'm currently working  **@Xaventra**
  
- 🌱 I'm currently learning **Docker, Golang, AWS**
+ 🌱 I'm currently learning **React Native, Golang, FastAPI**
 
  💬 Ask me about **Node.js, React... or anything [here](https://github.com/vidwade/vidwade/issues)**
 </div>
