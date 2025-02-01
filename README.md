@@ -39,27 +39,4 @@
 </div>
 
 <br/>
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vidwade/vidwade/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
- <a href="https://github.com/DFanso">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vidwade&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vidwade&layout=compact&theme=tokyonight"/>
-</a>
-</div>
-
-<br/><br/>
-<hr/>
-<br/><br/>
