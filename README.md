@@ -40,7 +40,6 @@
 
 <br/>
 <!--START_SECTION:waka-->
-
 ```txt
 TypeScript   2 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   34.61 %
 Rust         1 hr 57 mins    ███████▒░░░░░░░░░░░░░░░░░   29.40 %
@@ -48,6 +47,5 @@ Bash         1 hr 5 mins     ████░░░░░░░░░░░░░
 Markdown     45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
 TOML         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
-
 <!--END_SECTION:waka-->
 
