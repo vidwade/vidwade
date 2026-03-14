@@ -51,3 +51,7 @@ TOML       0 secs                ░░░░░░░░░░░░░░░�
 </pre>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vidwadeseram/vidwadeseram/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+</div>
+
