@@ -39,15 +39,15 @@
 </div>
 
 <br/>
+<div align="center">
+<pre>
 <!--START_SECTION:waka-->
-
-```txt
 Markdown   26 mins               █████████████████░░░░░░░░   67.41 %
 Rust       9 mins                ██████░░░░░░░░░░░░░░░░░░░   24.58 %
 Prisma     2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
 Python     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 TOML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-```
-
 <!--END_SECTION:waka-->
+</pre>
+</div>
 
